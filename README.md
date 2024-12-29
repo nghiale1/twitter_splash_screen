@@ -1,7 +1,7 @@
 # Flutter Twitter Splash Screen
 A Flutter package providing a customizable Twitter-style animated splash screen with smooth scale animations and transitions.
 
-![demo](https://github.com/user-attachments/demo.gif)
+![demo](https://github.com/user-attachments/assets/3691150b-dbbd-4c81-ab5f-e82a3b3029bc)
 
 ## Features
 - 🎯 Pixel-perfect Twitter splash screen animation
@@ -16,7 +16,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  twitter_splash: ^1.0.0
+  twitter_splash: ^0.0.1
 ```
 
 ## Usage
@@ -115,18 +115,8 @@ Contributions are welcome! Please read our [contributing guidelines](CONTRIBUTIN
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-# GitHub Repository Description
+## Support
+If you find this project helpful, you can support me:
 
-Twitter-style Splash Screen for Flutter
-A pixel-perfect implementation of Twitter's iconic splash screen animation with smooth scale transitions and customizable options. Perfect for creating engaging app launch experiences.
-
-Key features:
-• Exact Twitter animation reproduction
-• Customizable logo & colors
-• Smooth transitions
-• Cross-platform support
-• Easy integration
-
-Keywords: flutter, splash screen, twitter, animation, scale animation, custom splash, flutter package
+<a href="https://buymeacoffee.com/nghiale1" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
